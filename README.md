@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <p>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://www.linkedin.com/in/kveta-mooney-32612368/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+<!--     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn -->
   </a> 
   </p>
 <div>
