@@ -62,8 +62,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 ---
 
+### :fire: My Stats :
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=selfcoder-gazell" background-color="grey"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats"/>
 </div>
 </div>
 
