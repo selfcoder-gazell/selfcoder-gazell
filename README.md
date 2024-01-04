@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div align="center"> :speak_no_evil:  :hear_no_evil:  :see_no_evil: </div>
  
 <div id="header" align="center">
  
@@ -41,8 +39,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kveta-mooney/)
-- 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kveta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kveta-mooney/)
+  
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats">
 </div>
