@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding girl"></img>
-<!--   <p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p> -->
-  <p>
+</div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kveta-mooney-32612368/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  <a href="https://www.linkedin.com/in/kveta-mooney-32612368/" rel="nofollow noreferrer"></img>
-<!--     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn -->
   </a> 
-  </p>
+</div>
+  
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats">
 </div>
