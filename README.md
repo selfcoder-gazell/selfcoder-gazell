@@ -1,4 +1,4 @@
-### 🙈_no_evil:  :hear_no_evil:   🙊-no-evil: 
+### :speak_no_evil:  :hear_no_evil:  :see-no-evil: 
 <!--
 **selfcoder-gazell/selfcoder-gazell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
