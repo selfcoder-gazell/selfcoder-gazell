@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding girl"></img>
-</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kveta-mooney-32612368/" rel="nofollow noreferrer">
@@ -26,5 +25,6 @@ Here are some ideas to get you started:
   
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats">
+</div>
 </div>
 
