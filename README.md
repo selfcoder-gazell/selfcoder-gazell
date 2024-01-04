@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding girl"></img>
 <!--   <p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p> -->
   <p>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="https://www.linkedin.com/in/kveta-mooney-32612368/" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  <a href="https://www.linkedin.com/in/kveta-mooney-32612368/" rel="nofollow noreferrer"></img>
 <!--     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn -->
   </a> 
   </p>
