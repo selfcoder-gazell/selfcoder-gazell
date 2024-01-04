@@ -1,5 +1,4 @@
-<div> 
-<div align="center"> :speak_no_evil:  :hear_no_evil:  :see_no_evil: </div>
+
 <!--
 **selfcoder-gazell/selfcoder-gazell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center"> :speak_no_evil:  :hear_no_evil:  :see_no_evil: </div>
+ 
 <div id="header" align="center">
  
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding girl"></img>
@@ -35,4 +38,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats">
 </div>
 </div>
-</div>
+
