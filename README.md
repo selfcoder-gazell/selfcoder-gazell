@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats">
 </div>
+<p>
+  <a href="https://www.linkedin.com/in/kveta-mooney-32612368/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> 
+  </p>
