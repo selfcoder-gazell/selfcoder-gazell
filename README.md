@@ -66,7 +66,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div>
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=selfcoder-gazell&theme=dark&background=555555" alt="Streak Stats"/> -->
  <a href ="https://git.io/streak-stats" >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark"/></a>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark"/></a> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/demo/?user=selfcoder-gazell&theme=dark&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background"></a>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats"/> -->
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&background=000000)](https://git.io/streak-stats)/> -->
 </div>
