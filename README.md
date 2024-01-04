@@ -69,7 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&theme=dark"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell"/> 
 </a>
  
 </div>
