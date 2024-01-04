@@ -1,4 +1,4 @@
-### :see_no_evil:  :hear_no_evil:   :speak-no-evil: 
+### 🙈_no_evil:  :hear_no_evil:   🙊-no-evil: 
 <!--
 **selfcoder-gazell/selfcoder-gazell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  
-### :see_no_evil:  :hear_no_evil:   :speak-no-evil: 
-  
+ 
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding girl"></img>
 
 <div id="badges">
