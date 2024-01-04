@@ -38,4 +38,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats">
 </div>
 </div>
-
+</div>
