@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from UK.
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats">
 </div>
