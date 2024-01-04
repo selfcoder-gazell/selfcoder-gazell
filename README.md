@@ -64,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=selfcoder-gazell&theme=dark&background=000000" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=selfcoder-gazell&theme=dark&background=000005" alt="Streak Stats"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats"/> -->
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&background=000000)](https://git.io/streak-stats)/> -->
 </div>
