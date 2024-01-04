@@ -1,4 +1,5 @@
-<div align="center"> ### :speak_no_evil:  :hear_no_evil:  :see_no_evil:
+<div> 
+<div align="center"> :speak_no_evil:  :hear_no_evil:  :see_no_evil: </div>
 <!--
 **selfcoder-gazell/selfcoder-gazell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,4 +35,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=transparent" alt="Github stats">
 </div>
 </div>
-
+</div>
