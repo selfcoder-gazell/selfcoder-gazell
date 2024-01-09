@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 <div id="badges">
   <a href="https://www.linkedin.com/in/kveta-mooney-32612368/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-   <img src="https://img.shields.io/badge/gMail-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a> 
+  <a href="
 
 </div>
   <img src="https://komarev.com/ghpvc/?username=selfcoder-gazell&style=flat-square&color=blue" alt="Profile View Counter"/>
