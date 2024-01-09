@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <div id="badges">
   <a href="https://www.linkedin.com/in/kveta-mooney-32612368/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+   <img src="https://img.shields.io/badge/gMail-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a> 
 
 </div>
