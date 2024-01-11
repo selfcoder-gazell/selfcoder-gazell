@@ -62,7 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
  <img src="https://joshuapenalba.files.wordpress.com/2014/12/github-icon.png" title="GitHub" widht="60" height="60">&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40">&nbsp;
- <img src="https://assets-global.website-files.com/621c8d7ad9e04933c4e51ffb/622b59882517fc32819e86c3_Frame%202990-p-500.png" title="Slack" alt="Slack" width="130" height="130">&nbsp;
+ <img src="https://iconpacks.net/?utm_source=link-attribution&utm_content=15954" title="Slack" alt="Slack" width="130" height="130">&nbsp;
 </div>  
   
 ---
