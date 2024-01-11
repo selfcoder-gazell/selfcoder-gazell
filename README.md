@@ -50,7 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div background="grey">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -74,8 +74,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <a href ="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&theme=dark&align=left"/> 
+<a href="https://github.com/anuraghazra/github-readme-stats" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&theme=dark&hide_border=true"/> 
 </a>
  
 </div>
