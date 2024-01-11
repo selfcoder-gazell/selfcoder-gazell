@@ -44,7 +44,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I pursue my lifelong hobby: <bold>running</bold> which energizes me for another challenging day, clears my mind, and  helps me to come up with innovative solutions to a problem. Followed by a Cold Water Immersion to speed up my recovery and give me a sense of achievement. My love of mountaineering stayed with me since my youth and even though I do not get the chance to participate as often as I would like (due to other commitments) I still love any opportunity to share this love with my young children - showing them how small and irrelevant problems seem to be from a different perspective - the top of a mountain. Lastly, climbing: is yet another one of my many hobbies I wish I could go fully back to.  It practices problem-solving under pressure and focuses on one move at a time. New connections are made in our brains as we go through the process of working out for ourselves the next best move. 
 
 - :mailbox: How to reach me: <a href="mailto:kvetamooney@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" widht="30px" height="10px">
+   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" widht="40px" height="17px">
   </a>
 
 ---
