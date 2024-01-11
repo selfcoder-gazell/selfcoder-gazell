@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 </div>
   <img src="https://komarev.com/ghpvc/?username=selfcoder-gazell&style=flat-square&color=blue" alt="Profile View Counter"/>
-  <h1>Hello! I am Kveta.
+  <h1>Hello! I am Květa.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div
