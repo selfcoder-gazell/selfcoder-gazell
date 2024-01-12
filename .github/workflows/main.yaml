@@ -1,40 +1,4 @@
-name: Generate Snake
-
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 */6 * * *'
-
-jobs:
-  build:
-    runs-on: windows-latest
-
-    steps:
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16.x'
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node index.js
-      - name: Pull, Commit and Push new README.md to the repository
-        run: |
-          git config --global user.name 'selfcoder-gazell'
-          git config --global user.email 'kveta@blue-hippo.co.uk'
-          git pull
-          git commit -am "Update README.md"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/selfcoder-gazell/selfcoder-gazell.git main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
+          
+                          - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
