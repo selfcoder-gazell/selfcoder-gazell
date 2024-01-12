@@ -69,12 +69,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <div>
+ 
+  <a href="https://github.com/selfcoder-gazell">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&layout=compact&langs_count=16&theme=dracula"/>
+   
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  </a>
+</div>
+
+<div>
 
  <a href ="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
  </a>
   
-<a href="https://github.com/anuraghazra/github-readme-stats" align="left">
+<a href="https://github.com/selfcoder-gazell/github-readme-stats" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&theme=dark&hide_border=true"/> 
 </a>
  
@@ -83,7 +92,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- contribution snake grid -->
 
 <a href="https://github.com/Platane/snk">
-<img src="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" width="100%"></a>
+<img src="https://github.com/selfcoder-gazell/snake/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" width="100%">
+</a>
+
+ ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"><em>Click the grid ⬆️ to generate your own contribution grid snake gif</em></p>
  ---
