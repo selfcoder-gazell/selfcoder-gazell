@@ -95,24 +95,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/docker/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/docker/github-contribution-grit-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/docker/github-contribution-grid-snake.svg"
+    srcset="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/docker/github-contribution-grit-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/docker/github-contribution-grid-snake.svg"
+    src="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/docker/github-contribution-grit-snake.svg"
     width="100%"
   />
 </picture>
 </a>
 
-<img src="https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grit-snake.svg" width="100%">
  -->
  
-  ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grit-snake.svg)
 
 
 <p align="center"><em>Click the grid ⬆️ to generate your own contribution grid snake gif</em></p>
