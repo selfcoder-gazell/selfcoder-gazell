@@ -70,6 +70,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 <div>
 
+<div>
+  <a href="https://github.com/selfcoder-gazell">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+
  <a href ="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
  </a>
