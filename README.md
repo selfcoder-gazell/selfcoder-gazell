@@ -90,6 +90,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/only-svg/github-contribution-grid-snake.svg" width="100">
 </a>
 
+<img src="https://github.com/selfcoder-gazell/snake/blob/manual-run-output/docker/github-contribution-grid-snake.svg" width="100">
+
 <p align="center"><em>Click the grid ⬆️ to generate your own contribution grid snake gif</em></p>
  ---
 
