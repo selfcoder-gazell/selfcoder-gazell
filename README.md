@@ -92,16 +92,34 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- contribution snake grid -->
 
 <a href="https://github.com/Platane/snk">
-<img src="https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg width="100%">
- <!--
-<img src="https://github.com/selfcoder-gazell/snake/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" width="100%">
- -->
-</a> 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/docker/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/docker/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/selfcoder-gazell/snake/raw/manual-run-output/docker/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+</a>
 <!--
+<a href="https://github.com/Platane/snk">
+<img src="https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg width="100%">
+ 
+<img src="https://github.com/selfcoder-gazell/snake/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" width="100%">
+ 
+</a> 
+
  ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg width="100%")
 -->
+
 <p align="center"><em>Click the grid ⬆️ to generate your own contribution grid snake gif</em></p>
- ---
 
 </div>
 
