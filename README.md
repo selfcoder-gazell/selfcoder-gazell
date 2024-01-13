@@ -45,11 +45,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my leisure moments:
   - :zap: I embrace my enduring passion for <strong>Running</strong>, infusing me with energy for the challenges ahead, offering mental clarity, and sparking innovative solutions to problems.
    - :zap: A refreshing <strong>Cold Water Immersion</strong> not only accelerates my recovery but also instills a profound sense of accomplishment.
-  - :zap: My affection for <strong>mountaineering</strong> has been a companion since my youth. Despite the sporadic opportunities to partake in it due to other commitments, I relish any chance to share this adventurous love with our children. Together, we witness how seemingly trivial issues shrink to insignificance when viewed from the pinnacle of a mountain.
+  - :zap: My affection for <strong>mountaineering</strong> has been a companion since my youth. I relish any chance to share this adventurous love with our children. Together, we witness how seemingly trivial issues shrink to insignificance when viewed from the pinnacle of a mountain.
    - :zap: Lastly, my intermittent <strong>climbing</strong> serves as another cherished pastime. It improves my problem-solving skills under pressure, emphasizing the importance of focusing on one move at a time.
 
 - :mailbox: How to reach me: <a href="mailto:kvetamooney@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" widht="55px" height="22px">
+   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" widht="60px" height="22px">
   </a>
 
 ---
@@ -85,7 +85,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
  </a>
 </div>
-
+</div>
   <!--
 <a href="https://github.com/selfcoder-gazell/github-readme-stats" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&theme=dark&hide_border=true"/> 
