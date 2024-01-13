@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
  <a href="https://www.codewars.com/users/selfcoder-gazell">
-  <img src="https://www.codewars.com/users/selfcoder-gazell/badges/large">
+  <img src="https://www.codewars.com/users/selfcoder-gazell/badges/large" height="80%" width="80%">
  </a>
 </div>
 
