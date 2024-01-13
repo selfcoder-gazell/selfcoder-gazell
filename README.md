@@ -27,6 +27,9 @@ Here are some ideas to get you started:
   <a href="mailto:kvetamooney@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
+ <a href="https://www.codewars.com/users/selfcoder-gazell">
+  <img src="https://www.codewars.com/users/selfcoder-gazell/badges/large">
+ </a>
 </div>
 
 <div align="center">
