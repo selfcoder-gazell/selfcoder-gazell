@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
  
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding girl"></img>
+</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kveta-mooney-32612368/" rel="nofollow noreferrer">
@@ -26,13 +27,14 @@ Here are some ideas to get you started:
   <a href="mailto:kvetamooney@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-
 </div>
+
+<div>
   <img src="https://komarev.com/ghpvc/?username=selfcoder-gazell&style=flat-square&color=blue" alt="Profile View Counter"/>
   <h1>Hello! I am Květa. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
    Recently graduating from a 16-week intensive boot camp at the <a href="https://www.schoolofcode.co.uk/">School of Code</a>
   </h1>
-  </div
+ </div
 ---
 
 ### :woman_technologist: About Me :
@@ -84,7 +86,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <a href ="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
  </a>
-
+</div>
   <!--
 <a href="https://github.com/selfcoder-gazell/github-readme-stats" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&theme=dark&hide_border=true"/> 
@@ -103,5 +105,5 @@ https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd7
   ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-</div>
+
 
