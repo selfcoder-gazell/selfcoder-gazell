@@ -74,20 +74,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <div align="center">
- 
   <a href="https://github.com/selfcoder-gazell">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&layout=compact&langs_count=16&theme=dark&hide_border="true"/>
-   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
   </a>
 </div>
 
 <div align="center">
-
  <a href ="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
  </a
-  </div>
+</div>
+
   <!--
 <a href="https://github.com/selfcoder-gazell/github-readme-stats" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&theme=dark&hide_border=true"/> 
@@ -101,11 +99,9 @@ https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd7
  <!--
 <img src="https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg">
  -->
- 
+ <div>
+  
   ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-<p align="center"><em>Click the grid ⬆️ to generate your own contribution grid snake gif</em></p>
--->
 </div>
 
