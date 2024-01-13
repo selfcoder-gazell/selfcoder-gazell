@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 - :telescope: I’m working on my GitHub page.
-
+- :telescope: I’m reading <a href="https://www.google.co.uk/books/edition/Clean_Code/_i6bDeoCQzsC?hl=en&gbpv=1&printsec=frontcover">Clean Code</a> book by Robert C. Martin. 
 - :seedling: Exploring What tech stack would be most suitable for my portfolio page.
 
 - :zap: In my free time, I pursue my lifelong hobby: <bold>running</bold> which energizes me for another challenging day, clears my mind, and  helps me to come up with innovative solutions to a problem. Followed by a Cold Water Immersion to speed up my recovery and give me a sense of achievement. My love of mountaineering stayed with me since my youth and even though I do not get the chance to participate as often as I would like (due to other commitments) I still love any opportunity to share this love with my young children - showing them how small and irrelevant problems seem to be from a different perspective - the top of a mountain. Lastly, intermiten climbing: is yet another one of my many hobbies I wish I could go fully back to. It practices problem-solving under pressure and focuses on one move at a time. New connections are made in our brains as we go through the process of working out for ourselves the next best move. 
