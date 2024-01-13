@@ -84,8 +84,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <a href ="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
  </a>
-</div>
-</div>
+
   <!--
 <a href="https://github.com/selfcoder-gazell/github-readme-stats" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&theme=dark&hide_border=true"/> 
@@ -99,9 +98,10 @@ https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd7
  <!--
 <img src="https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg">
  -->
- <div>
+ <div align="center">
   
   ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 </div>
 
