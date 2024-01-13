@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 - :telescope: I’m working on my GitHub page.
-- :telescope: I’m doing a<a href="https://www.edx.org/learn/probability/harvard-university-fat-chance-probability-from-the-ground-up#:~:text=Created%20specifically%20for%20those%20who,memorization%20of%20terms%20and%20formulae.">Probability from the Ground</a> course to improve my reasoning skills and understanding of statistics. 
+- :telescope: I’m doing a<a href="https://www.edx.org/learn/probability/harvard-university-fat-chance-probability-from-the-ground-up#:~:text=Created%20specifically%20for%20those%20who,memorization%20of%20terms%20and%20formulae."> Probability from the Ground</a> course to improve my reasoning skills and understanding of statistics. 
 - :telescope: I’m reading <a href="https://www.google.co.uk/books/edition/Clean_Code/_i6bDeoCQzsC?hl=en&gbpv=1&printsec=frontcover">Clean Code</a> book by Robert C. Martin. 
 - :seedling: Exploring What tech stack would be most suitable for my portfolio page.
 
@@ -72,7 +72,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div>
  
   <a href="https://github.com/selfcoder-gazell">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&layout=compact&langs_count=16&theme=algolia"/>
    
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
   </a>
@@ -100,8 +100,8 @@ https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd7
  
   ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg)
 
-
+<!--
 <p align="center"><em>Click the grid ⬆️ to generate your own contribution grid snake gif</em></p>
-
+-->
 </div>
 
