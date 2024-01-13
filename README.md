@@ -72,7 +72,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div>
  
   <a href="https://github.com/selfcoder-gazell">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&layout=compact&langs_count=16&theme=merko"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&layout=compact&langs_count=16&theme=merko&hide_border="true"/>
    
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=selfcoder-gazell&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
   </a>
@@ -81,13 +81,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div>
 
  <a href ="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=selfcoder-gazell&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
  </a>
-  
+  <!--
 <a href="https://github.com/selfcoder-gazell/github-readme-stats" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcoder-gazell&theme=dark&hide_border=true"/> 
 </a>
- 
+ -->
 </div>
 
 <!-- contribution generate snake grid animation 
