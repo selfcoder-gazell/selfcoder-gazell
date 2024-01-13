@@ -43,13 +43,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring What tech stack would be most suitable for my portfolio page.
 
 - :zap: In my leisure moments:
-  - :zap: I embrace my enduring passion for <strong>Running</strong>, infusing me with energy for the challenges ahead, offering mental clarity, and sparking innovative solutions to problems.
-  - :zap: A refreshing <strong>Cold Water Immersion</strong> not only accelerates my recovery but also instills a profound sense of accomplishment.
-  - :zap: My affection for <strong>mountaineering</strong> has been a companion since my youth. Despite the sporadic opportunities to partake in it due to other commitments, I relish any chance to share this adventurous love with our children. Together, we witness how seemingly trivial issues shrink to insignificance when viewed from the pinnacle of a mountain.
-  - :zap: Lastly, my intermittent forays into <strong>climbing</strong> serve as another cherished pastime I yearn to fully embrace once again. It hones my problem-solving skills under pressure, emphasizing the importance of focusing on one move at a time. Each ascent creates new neural connections, guiding us through the exhilarating process of determining the next best move.
+   :zap: I embrace my enduring passion for <strong>Running</strong>, infusing me with energy for the challenges ahead, offering mental clarity, and sparking innovative solutions to problems.
+   :zap: A refreshing <strong>Cold Water Immersion</strong> not only accelerates my recovery but also instills a profound sense of accomplishment.
+   :zap: My affection for <strong>mountaineering</strong> has been a companion since my youth. Despite the sporadic opportunities to partake in it due to other commitments, I relish any chance to share this adventurous love with our children. Together, we witness how seemingly trivial issues shrink to insignificance when viewed from the pinnacle of a mountain.
+   :zap: Lastly, my intermittent forays into <strong>climbing</strong> serve as another cherished pastime I yearn to fully embrace once again. It hones my problem-solving skills under pressure, emphasizing the importance of focusing on one move at a time. Each ascent creates new neural connections, guiding us through the exhilarating process of determining the next best move.
 
 - :mailbox: How to reach me: <a href="mailto:kvetamooney@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" widht="50px" height="22px">
+   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" widht="55px" height="22px">
   </a>
 
 ---
