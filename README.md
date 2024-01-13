@@ -37,16 +37,16 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
-- :telescope: I’m working on my GitHub page.
+- :telescope: I’m working on my <a href="https://github.com/selfcoder-gazell">GitHub page</a>.
 - :telescope: I’m doing a<a href="https://www.edx.org/learn/probability/harvard-university-fat-chance-probability-from-the-ground-up#:~:text=Created%20specifically%20for%20those%20who,memorization%20of%20terms%20and%20formulae."> Probability from the Ground</a> course to improve my reasoning skills and understanding of statistics. 
 - :telescope: I’m reading <a href="https://www.google.co.uk/books/edition/Clean_Code/_i6bDeoCQzsC?hl=en&gbpv=1&printsec=frontcover">Clean Code</a> book by Robert C. Martin. 
 - :seedling: Exploring What tech stack would be most suitable for my portfolio page.
 
 - :zap: In my free time:
-  :zap: pursue my lifelong hobby -<strong>Running</strong> which energizes me for another challenging day, clears my mind, and  helps me to come up with innovative solutions to a problem.
-    :zap: Followed by a <strong>Cold Water Immersion</strong> to speed up my recovery and give me a sense of achievement.
-    :zap: My love of <strong>mountaineering</strong> stayed with me since my youth and even though I do not get the chance to participate as often as I would like (due to other commitments) I still love it any opportunity to share this love with my young children - showing them how small and irrelevant problems seem to be from a different perspective - the top of a mountain.
-   :zap: Lastly, intermittent <strong>climbing:</strong> is yet another one of my many hobbies I wish I could go fully back to. It practices problem-solving under pressure and focuses on one move at a time. New connections are made in our brains as we go through the process of working out for ourselves the next best move. 
+  - :zap: pursue my lifelong hobby -<strong>Running</strong> which energizes me for another challenging day, clears my mind, and  helps me to come up with innovative solutions to a problem.
+  - :zap: Followed by a <strong>Cold Water Immersion</strong> to speed up my recovery and give me a sense of achievement.
+  - :zap: My love of <strong>mountaineering</strong> stayed with me since my youth and even though I do not get the chance to participate as often as I would like (due to other commitments) I still love it any opportunity to share this love with my young children - showing them how small and irrelevant problems seem to be from a different perspective - the top of a mountain.
+  - :zap: Lastly, intermittent <strong>climbing:</strong> is yet another one of my many hobbies I wish I could go fully back to. It practices problem-solving under pressure and focuses on one move at a time. New connections are made in our brains as we go through the process of working out for ourselves the next best move. 
 
 - :mailbox: How to reach me: <a href="mailto:kvetamooney@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" widht="40px" height="17px">
