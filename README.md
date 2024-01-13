@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 
 </div>
   <img src="https://komarev.com/ghpvc/?username=selfcoder-gazell&style=flat-square&color=blue" alt="Profile View Counter"/>
-  <h1>Hello! I am Květa.<br>
+  <h1>Hello! I am Květa. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
    Recently graduating from a 16-week intensive boot camp at the <a href="https://www.schoolofcode.co.uk/">School of Code</a>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div
 ---
