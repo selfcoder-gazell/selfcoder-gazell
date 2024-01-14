@@ -49,7 +49,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my leisure moments:
   - :zap: I embrace my enduring passion for <strong>Running</strong>.
-   - :zap: A refreshing <strong>Cold Water Immersion</strong>.
+   - :zap: I enjoy a refreshing <strong>Cold Water Immersion</strong>.
   - :zap: My affection for <strong>mountaineering</strong> has been a companion since my youth.
    - :zap: Lastly, my intermittent <strong>climbing</strong>.
 
