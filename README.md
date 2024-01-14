@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
  <a href="https://www.codewars.com/users/selfcoder-gazell">
-  <img src="https://www.codewars.com/users/selfcoder-gazell/badges/large" height="30%" width="30%">
+  <img src="https://www.codewars.com/users/selfcoder-gazell/badges/large" height="33%" width="33%">
  </a>
 </div>
 
@@ -48,10 +48,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring What tech stack would be most suitable for my portfolio page.
 
 - :zap: In my leisure moments:
-  - :zap: I embrace my enduring passion for <strong>Running</strong>, infusing me with energy for the challenges ahead, offering mental clarity, and sparking innovative solutions to problems.
-   - :zap: A refreshing <strong>Cold Water Immersion</strong> not only accelerates my recovery but also instills a profound sense of accomplishment.
-  - :zap: My affection for <strong>mountaineering</strong> has been a companion since my youth. I relish any chance to share this adventurous love with our children. Together, we witness how seemingly trivial issues shrink to insignificance when viewed from the pinnacle of a mountain.
-   - :zap: Lastly, my intermittent <strong>climbing</strong> serves as another cherished pastime. It improves my problem-solving skills under pressure, emphasizing the importance of focusing on one move at a time.
+  - :zap: I embrace my enduring passion for <strong>Running</strong>.
+   - :zap: A refreshing <strong>Cold Water Immersion</strong>.
+  - :zap: My affection for <strong>mountaineering</strong> has been a companion since my youth.
+   - :zap: Lastly, my intermittent <strong>climbing</strong>.
 
 - :mailbox: How to reach me: <a href="mailto:kvetamooney@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" widht="60px" height="22px">
