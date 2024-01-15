@@ -105,10 +105,7 @@ https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd7
 <img src="https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg">
  -->
  
- <div align="center"
-  ![Codewars](https://github.r2v.ch/codewars?user=selfcoder-gazell&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
- </div>
- 
+
  <div align="center">
   
   ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg)
