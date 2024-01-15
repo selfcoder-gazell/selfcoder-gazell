@@ -104,6 +104,7 @@ https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd7
  <!--
 <img src="https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg">
  -->
+ <br>
  
  <div align="center">
   
