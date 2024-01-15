@@ -27,11 +27,12 @@ Here are some ideas to get you started:
   <a href="mailto:kvetamooney@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
+</div>
+<div align="center">
  <a href="https://www.codewars.com/users/selfcoder-gazell">
   <img src="https://www.codewars.com/users/selfcoder-gazell/badges/large" height="33%" width="33%">
  </a>
 </div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=selfcoder-gazell&style=flat-square&color=blue" alt="Profile View Counter"/>
   <h1>Hello! I am Květa. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
