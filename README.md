@@ -120,10 +120,9 @@ https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd7
 </div>
 
 <div>
- 
- <video src="https://framerusercontent.com/assets/vM5W9lqfzHqZZWQyKTEJcvNODAo.mp4" width=80></video>
- 
-<video src="https://github.com/selfcoder-gazell/selfcoder-gazell/blob/vM5W9lqfzHqZZWQyKTEJcvNODAo.mp4" width=80></video>
+
+ ![Video](https://github.com/selfcoder-gazell/selfcoder-gazell/raw/vM5W9lqfzHqZZWQyKTEJcvNODAo.mp4)
+
  
 </div>
 
