@@ -118,7 +118,9 @@ https://taozhi.medium.com/how-to-add-a-snake-game-to-your-github-page-d742918fd7
   ![Snake animation](https://github.com/selfcoder-gazell/selfcoder-gazell/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-<video src="https://framerusercontent.com/assets/vM5W9lqfzHqZZWQyKTEJcvNODAo.mp4" />
+
+![Watch the video](https://framerusercontent.com/assets/vM5W9lqfzHqZZWQyKTEJcvNODAo.mp4)
+
 <div>
  
 </div>
